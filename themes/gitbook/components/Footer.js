@@ -52,9 +52,9 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://surv.to/jms'
+          href='https://www.sanfanke.com'
           className='underline text-gray-500 dark:text-gray-300'>
-         搬瓦工｜Just My Socks
+         三帆客|Sanfanke
         </a>
       </div>
       {/* SEO title */}
